@@ -26,6 +26,8 @@
 <a href="https://twitter.com/mahmoudg_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahmoudg_" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
+<h4>Langauges</h4>
+Python and JavaScript 
 
 <h4>Frontend</h4>
 <p align="left">
