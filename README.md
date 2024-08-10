@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Web Developer |  Python Enthusiast | </h3>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dx6s6ebfb/image/upload/v1723258514/WhatsApp_Image_2024-08-10_at_03.54.48_skw3ok.jpg" alt="Mahmud Ghali Abdulhameed" width="300" height="300" style="border-radius: 50%;">
+  <img src="https://your-custom-image-url-here.jpg" alt="Mahmud Ghali Abdulhameed" width="200" height="200" style="border-radius: 50%;">
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <h4>Langauges</h4>
-Python and JavaScript 
+Python  JavaScript 
 
 <h4>Frontend</h4>
 <p align="left">
