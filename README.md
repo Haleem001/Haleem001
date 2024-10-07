@@ -12,7 +12,7 @@
 <h3 align="center">🚀 Quick Links</h3>
 
 <p align="center">
-  <a href="https://haleem.netlify.app/">Portfolio</a> •
+  <a href="https://mahmoudhaleem.me/">Portfolio</a> •
   <a href="www.linkedin.com/in/mahmud-ghali-157b07227">LinkedIn</a> •
   <a href="https://twitter.com/mahmoudg_">Twitter</a>
 </p>
