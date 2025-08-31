@@ -10,32 +10,24 @@
 <h3 align="center">🚀 Quick Links</h3>
 
 <p align="center">
-  <a href="https://mahmoudhaleem.me/">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/mahmud-ghali-157b07227">💼 LinkedIn</a> •
-  <a href="https://twitter.com/mahmoudg_">🐦 Twitter</a> •
-  <a href="mailto:mahmudghali01@gmail.com">📧 Email</a>
+  <a href="https://mahmoudhaleem.me/">Portfolio</a> •
+  <a href="www.linkedin.com/in/mahmud-ghali-157b07227">LinkedIn</a> •
+  <a href="https://twitter.com/mahmoudg_">Twitter</a>
 </p>
 
----
+### 📫 Get in Touch
+- Email: mahmudghali01@gmail.com
+- Twitter: [@mahmoudg_](https://twitter.com/mahmoudg_)
 
-### 🎯 About Me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mahmoudg_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahmoudg_" height="30" width="40" /></a>
+</p>
+<h3 align="left">Languages and Tools:</h3>
+<h4>Langauges</h4>
+Python  JavaScript 
 
-I'm a passionate full-stack web developer specializing in Python and modern web technologies. I love building applications that solve real-world problems and provide exceptional user experiences. My journey in web development has led me to work with various technologies, from backend APIs to responsive frontend interfaces.
-
-### 💻 Tech Stack
-
-<details>
-<summary><strong>🔧 Languages & Core Technologies</strong></summary>
-
-- **Languages:** Python, JavaScript, HTML5, CSS3
-- **Backend:** Django, Django REST Framework
-- **Frontend:** React.js, Bootstrap, Tailwind CSS, jQuery
-- **Databases:** PostgreSQL, SQLite
-- **Tools & DevOps:** Git, Linux, Postman, API Development
-
-</details>
-
-<h4>🎨 Frontend Technologies</h4>
+<h4>Frontend</h4>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
