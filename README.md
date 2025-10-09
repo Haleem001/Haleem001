@@ -1,4 +1,4 @@
-<h1 align="center">Mahmud Ghali Abdulhameed</h1>
+<h1 align="center">Mahmud Ghali Abdulhamid</h1>
 <h3 align="center">Full-Stack Web Developer | Python Enthusiast | Django & React</h3>
 
 
