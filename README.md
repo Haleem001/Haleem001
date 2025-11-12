@@ -127,11 +127,6 @@ I believe in writing clean, maintainable code and creating user-centric applicat
 
 ### 📬 Let's Connect!
 
-<p align="center">
-  💼 Open for freelance projects and full-time opportunities<br>
-  🌍 Based in Abuja, Nigeria<br>
-  ⚡ Always excited to discuss new technologies and innovative ideas
-</p>
 
 <p align="center">
   <strong>Ready to bring your vision to life? Let's build something amazing together!</strong>
@@ -144,7 +139,3 @@ I believe in writing clean, maintainable code and creating user-centric applicat
 </h3>
 
 ---
-
-<p align="center">
-  <em>"Code is like humor. When you have to explain it, it's bad." - Cory House</em>
-</p>
