@@ -62,12 +62,12 @@ Python  JavaScript
 
 ### 🌟 Featured Projects
 
-#### 🏦 [Cooperative Society Loan Management System](https://github.com/Haleem001/cooperative-loan-system)
+#### 🏦 [Cooperative Society Loan Management System](https://github.com/Haleem001/loan_tracking_software)
 **Full-Stack Web Application**
 - Streamlines the complete loan lifecycle in cooperative societies from application to closure
 - Features real-time insights, automated processes, and comprehensive loan tracking
 - **Tech Stack:** Django, Django REST Framework, PostgreSQL, React
-- **Live Demo:** [View Application](https://your-demo-link-here.com)
+- **Live Demo:** [View Application](https://loantrackerfrontend.vercel.app/)
 
 #### 💰 [Personal Expense Tracker](https://github.com/Haleem001/expense-tracker)
 **React Application**
@@ -76,7 +76,7 @@ Python  JavaScript
 - **Tech Stack:** React.js, JavaScript, CSS3
 - **Features:** Expense categorization, budget tracking, visual analytics
 
-#### 🤖 [USD-NGN Currency Converter Bot](https://github.com/Haleem001/currency-bot)
+#### 🤖 [USD-NGN Currency Converter Bot](https://github.com/Haleem001/naira-rate-bot)
 **Telegram Bot**
 - Real-time USD to NGN exchange rate notifications
 - Bidirectional currency conversion (USD ↔ NGN)
