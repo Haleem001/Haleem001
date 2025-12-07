@@ -112,8 +112,7 @@ I'm always open to exciting projects and collaborations. Here's what I'm particu
 - **Open Source Python Projects** - Contributing to the Python ecosystem
 - **Full-Stack Web Applications** - Django + React combinations
 - **API Development** - RESTful services and microservices architecture
-- **Fintech Solutions** - Financial technology applications
-- **Educational Tech** - Learning management systems and educational tools
+
 
 ### 📈 My Approach
 
