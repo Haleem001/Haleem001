@@ -1,7 +1,6 @@
 <h1 align="center">Mahmud Ghali Abdulhamid</h1>
 <h3 align="center">Full-Stack Web Developer | Python Enthusiast | Django & React</h3>
 
-
 <p align="center">
   <em>Crafting innovative full-stack web solutions with a focus on Python and modern web technologies.</em><br>
   Turning ideas into elegant, efficient, and user-friendly applications.
@@ -43,6 +42,9 @@ Python  JavaScript
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
   <a href="https://www.django-rest-framework.org/" target="_blank" rel="noreferrer"><img src="https://www.django-rest-framework.org/img/logo.png" alt="django rest framework" width="40" height="40"/></a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/></a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain-wordmark.svg" alt="nestjs" width="40" height="40"/></a>
 </p>
 
 <h4>🗄️ Databases</h4>
@@ -125,7 +127,6 @@ I believe in writing clean, maintainable code and creating user-centric applicat
 ---
 
 ### 📬 Let's Connect!
-
 
 <p align="center">
   <strong>Ready to bring your vision to life? Let's build something amazing together!</strong>
