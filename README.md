@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://mahmoudhaleem.dev/">Portfolio</a> •
-  <a href="www.linkedin.com/in/mahmud-ghali">LinkedIn</a> •
+  <a href="https://linkedin.com/in/mahmud-ghali">LinkedIn</a> •
   <a href="https://twitter.com/mahmoudg_">Twitter</a>
 </p>
 
